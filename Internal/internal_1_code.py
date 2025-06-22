@@ -1,6 +1,13 @@
-print("Welcome to rock scissor paper game!")
+print("Welcome to my rock scissor paper game!")
+score = 0
 
 import random
-answer = input("Choose one! rock scissor paper!")
-answer = ["rock","scissor","paper"]
-print(random.choice (answer))
+user_choice = input("Choose one! rock scissor paper!")
+user_choice = ["rock","scissor","paper"]
+computer_choice = print(random.choice)
+print(random.choice (user_choice))
+
+if user_choice == computer_choice
+    print("Tie")
+    socre += 0
+if 
