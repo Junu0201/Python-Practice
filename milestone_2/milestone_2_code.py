@@ -8,4 +8,3 @@ elif mood == "good":
     print ("Nice!")
 else:
     print("👍")
-    
